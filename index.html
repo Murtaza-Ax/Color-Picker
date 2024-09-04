@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Picker</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="square square1"></div>
+    <div class="square square2"></div>
+    <div class="square square3"></div>
+    <div class="square square4"></div>
+    <div class="square square5"></div>
+
+    <div class="color-picker">
+        <div class="input-wrapper">
+            <input type="color" id="colorInput" value="#FF4E88">
+        </div>
+        <div class="color-info">
+            <div class="color-group">
+                <p>HEX: </p>
+                <abbr title="Click to Copy Code"><p id="hexValue">#FF4E88</p></abbr>
+            </div>
+            <div class="color-group">
+                <p>RGB: </p>
+                <abbr title="Click to Copy Code"><p id="rgbValue">rgb(255, 78, 136)</p></abbr>
+            </div>
+        </div>
+        <div class="view-text">
+            <button id="btn">View Color in Background</button>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
