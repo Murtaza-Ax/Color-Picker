@@ -20,7 +20,7 @@
 <a href="https://murtaza-ax.github.io/Color-Picker/">📱 Visit this Project</a>
 </p>
 
-<h2 id="overview">🛒 Overview</h2>
+<h2 id="overview">Overview</h2>
 <p align="start">**Color Picker** 
   This color picker website offers a user-friendly interface for selecting and customizing colors. With features like a visual spectrum and adjustable sliders, users can easily find 
   their desired hue. The tool also provides the flexibility to view and copy color values in different formats, making it a valuable resource for web designers, artists, and anyone 
@@ -120,7 +120,7 @@ Here's how to get started:
 
 7. **Create a Pull Request**: Go to the original repository on GitHub and create a pull request. Please provide a detailed explanation of your changes and why they should be merged. 
    
-⭐ Thank you for considering contributing to Trendify!
+⭐ Thank you for considering contributing!
 
 <h3>Documentations that might help</h3>
 
